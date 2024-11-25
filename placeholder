@@ -2,14 +2,14 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=http://kaijfox.github.io/CV.pdf">
+        <meta http-equiv="refresh" content="0; url=placeholder">
         <script type="text/javascript">
-            window.location.href = "http://kaijfox.github.io/CV.pdf"
+            window.location.href = "placeholder"
         </script>
         <title>Page Redirection</title>
     </head>
     <body>
         If you are not redirected automatically, proceed to
-<a href='http://kaijfox.github.io/CV.pdf'>http://kaijfox.github.io/CV.pdf</a>.
+<a href='placeholder'>placeholder</a>.
     </body>
 </html>
